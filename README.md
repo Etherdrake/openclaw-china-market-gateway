@@ -17,7 +17,7 @@
 Your authoritative source for in-depth analysis of China and Hong Kong equities markets. Delivering financial news at the speed of light — insights that move markets and shape investment strategies. 💼🌊
 
 **🤖 [Etherdeep](https://etherdeep.com)** | [@EtherdeepTrade](https://x.com/EtherdeepTrade)
-An AI-driven trading lab leveraging cutting-edge artificial intelligence to navigate global markets with precision. 🌍⚡
+An AI-driven global macro trading lab leveraging cutting-edge artificial intelligence to analyze and predict moves in financial markets. 🌍⚡
 
 ---
 
