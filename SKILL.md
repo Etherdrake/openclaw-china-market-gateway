@@ -1,6 +1,5 @@
 # China Market Gateway Skill
 
----
 name: china-market-gateway
 description: Umbrella skill for retrieving Chinese finance data (A-shares, HK, funds, economic data) using Python. Pull stock prices, fund data, market news, and macro indicators from Eastmoney, Sina, CLS, Baidu, and other Chinese sources. Use when researching Chinese equities, mainland stock prices, HK market data, fund performance, or China-related financial news and economic indicators.
 license: MIT
@@ -9,7 +8,6 @@ metadata:
   author: Etherdrake
   version: "1.0.2"
   supportedMarkets: ["A-shares", "HK", "Shanghai", "Shenzhen", "Fund", "Macro"]
----
 
 # YuanData - Chinese Finance Data Retrieval (Python)
 
