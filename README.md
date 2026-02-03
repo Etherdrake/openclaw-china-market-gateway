@@ -11,6 +11,10 @@
 
 Your seamless bridge to the dynamic world of Chinese financial markets.
 
+*Sponsored by* [**Etherdeep**](https://etherdeep.com) | [𝕏](https://x.com/EtherdeepTrade)
+
+AI-driven proprietary trading firm leveraging cutting-edge artificial intelligence to navigate global markets with precision.
+
 </div>
 
 ## Overview
