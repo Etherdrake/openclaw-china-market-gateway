@@ -32,11 +32,20 @@ The **China Market Gateway** skill empowers OpenClaw to intelligently navigate a
 ## Sponsor
 
 ✨ **This project is proudly sponsored by [YuanTrends](https://yuantrends.com)** ✨
-[Follow on X @YuanTrends](https://x.com/YuanTrends)
-
-YuanTrends is your authoritative source for in-depth analysis of China and Hong Kong equities markets. Delivering financial news at the speed of light — insights that move markets, drive decisions, and shape investment strategies. From macroeconomic shifts to stock-specific intelligence, YuanTrends keeps you ahead of the curve.
+✨ **and [Etherdeep](https://etherdeep.com)** ✨
 
 ---
+
+**📰 [YuanTrends](https://yuantrends.com)** | [@YuanTrends](https://x.com/YuanTrends)
+Your authoritative source for in-depth analysis of China and Hong Kong equities markets. Delivering financial news at the speed of light — insights that move markets and shape investment strategies. 💼🌊
+
+---
+
+**🤖 [Etherdeep](https://etherdeep.com)** | [@EtherdeepTrade](https://x.com/EtherdeepTrade)
+An AI-driven proprietary trading firm leveraging cutting-edge artificial intelligence to navigate global markets with precision. 🌍⚡
+
+---
+Thank you for your support! 💙
 
 ## Features
 
