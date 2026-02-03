@@ -7,13 +7,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ClawdHub](https://img.shields.io/badge/ClawdHub-Available-brightgreen.svg)](https://clawdhub.dev/skills/china-market-gateway)
 
-*Sponsored by* [**YuanTrends**](https://yuantrends.com) | [𝕏](https://x.com/YuanTrends)
+ ## Sponsor
 
-Your seamless bridge to the dynamic world of Chinese financial markets.
+✨ **This project is proudly sponsored by [YuanTrends](https://yuantrends.com)** ✨
+✨ **and [Etherdeep](https://etherdeep.com)** ✨
 
-*Sponsored by* [**Etherdeep**](https://etherdeep.com) | [𝕏](https://x.com/EtherdeepTrade)
 
-AI-driven proprietary trading firm leveraging cutting-edge artificial intelligence to navigate global markets with precision.
+**📰 [YuanTrends](https://yuantrends.com)** | [@YuanTrends](https://x.com/YuanTrends)
+Your authoritative source for in-depth analysis of China and Hong Kong equities markets. Delivering financial news at the speed of light — insights that move markets and shape investment strategies. 💼🌊
+
+**🤖 [Etherdeep](https://etherdeep.com)** | [@EtherdeepTrade](https://x.com/EtherdeepTrade)
+An AI-driven trading lab leveraging cutting-edge artificial intelligence to navigate global markets with precision. 🌍⚡
+
+---
 
 </div>
 
@@ -28,24 +34,6 @@ The **China Market Gateway** skill empowers OpenClaw to intelligently navigate a
 中国市场门户技能能够赋能OpenClaw，使其可以智能地导航并从中国金融生态系统中最重要的源头提取数据。无论您是量化分析师、普通投资者，还是追踪经济趋势的研究人员，此技能都为一个常常碎片化且难以接入的市场，提供了统一且可编程的接口。它处理了网络爬虫、API身份验证和数据标准化的复杂性，让您可以专注于分析和策略。
 
 ---
-
-## Sponsor
-
-✨ **This project is proudly sponsored by [YuanTrends](https://yuantrends.com)** ✨
-✨ **and [Etherdeep](https://etherdeep.com)** ✨
-
----
-
-**📰 [YuanTrends](https://yuantrends.com)** | [@YuanTrends](https://x.com/YuanTrends)
-Your authoritative source for in-depth analysis of China and Hong Kong equities markets. Delivering financial news at the speed of light — insights that move markets and shape investment strategies. 💼🌊
-
----
-
-**🤖 [Etherdeep](https://etherdeep.com)** | [@EtherdeepTrade](https://x.com/EtherdeepTrade)
-An AI-driven proprietary trading firm leveraging cutting-edge artificial intelligence to navigate global markets with precision. 🌍⚡
-
----
-Thank you for your support! 💙
 
 ## Features
 
@@ -177,6 +165,10 @@ Scrapes the latest financial news headlines from a specified source.
 - `beautifulsoup4`
 - `pandas`
 - `lxml`
+  
+---
+
+Thank you for your support! 💙
 
 ## Contributing
 
