@@ -186,7 +186,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author & Support
 
-- **Author:** Max Bodewes
+- **Author:** Etherdrake
 - **ClawdHub Skill Page:** [https://clawdhub.dev/skills/china-market-gateway](https://clawdhub.dev/skills/china-market-gateway)
 - **Support:** Please open an issue for bug reports or feature requests.
 
